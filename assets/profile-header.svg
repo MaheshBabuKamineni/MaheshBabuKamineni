@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Mahesh Babu Kamineni</title>
+  <desc id="desc">Software engineer focused on applied AI, machine learning, and full-stack development.</desc>
+  <rect width="1200" height="320" fill="#102522"/>
+  <path d="M0 254H1200M0 286H1200M64 0V320M96 0V320M1120 0V320M1152 0V320" stroke="#23423B" stroke-width="1"/>
+  <path d="M0 58H280L348 126H488M1200 238H980L914 172H780" fill="none" stroke="#37665B" stroke-width="2"/>
+  <path d="M0 80H250L318 148H438M1200 216H1002L936 150H832" fill="none" stroke="#23423B" stroke-width="1"/>
+  <circle cx="280" cy="58" r="5" fill="#D59B4A"/>
+  <circle cx="488" cy="126" r="5" fill="#78B6A1"/>
+  <circle cx="980" cy="238" r="5" fill="#D59B4A"/>
+  <circle cx="780" cy="172" r="5" fill="#78B6A1"/>
+  <rect x="72" y="78" width="7" height="162" fill="#D59B4A"/>
+  <text x="112" y="112" fill="#9BC9B5" font-family="Segoe UI, sans-serif" font-size="15" letter-spacing="2">SOFTWARE ENGINEERING  /  APPLIED AI</text>
+  <text x="108" y="176" fill="#F1F4EE" font-family="Segoe UI, sans-serif" font-size="43" font-weight="700">MAHESH BABU KAMINENI</text>
+  <text x="112" y="218" fill="#C1D2C9" font-family="Segoe UI, sans-serif" font-size="22">AI, machine learning, and full-stack development</text>
+  <text x="112" y="278" fill="#78B6A1" font-family="Consolas, monospace" font-size="14">BUILD  /  LEARN  /  SHIP</text>
+  <text x="1070" y="278" fill="#9BC9B5" font-family="Consolas, monospace" font-size="13">MBK  .  01</text>
+</svg>
