@@ -25,11 +25,23 @@
 
 <a href="https://neurohub-4d3a2f5f.web.app/"><img src="https://img.shields.io/badge/🧠%20NeuronHub-Learn%20%7C%20Grow%20%7C%20Build-8e44ad?style=for-the-badge&labelColor=0f2027"/></a>
 
-**I created and manage [NeuronHub](https://neurohub-4d3a2f5f.web.app/), a website that helps learners grow their skills and reach their goals.**
+**I created and manage [NeuronHub](https://neurohub-4d3a2f5f.web.app/), a free AI learning website: *"Learn AI engineering, one runnable example at a time."***
+
+<img src="https://img.shields.io/badge/45-Learning%20Tracks-8e44ad?style=flat-square"/>
+<img src="https://img.shields.io/badge/566-Lessons-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/76-Coding%20Problems-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/23-Project%20Ideas-ff6b6b?style=flat-square"/>
 
 <a href="https://neurohub-4d3a2f5f.web.app/"><img src="https://img.shields.io/badge/Visit%20NeuronHub-%E2%86%92-2ea44f?style=for-the-badge"/></a>
 
 </div>
+
+**What learners get on NeuronHub**
+- 🧪 **Hands-on lessons** with an in-browser IDE and a Python playground, so there is nothing to install
+- 🤖 **Tracks** covering Python for AI, Machine Learning, Generative AI, RAG, LangChain, LangGraph, Agentic AI, MCP, Guardrails, LLMOps and more
+- 🗺️ **Career roadmaps** for AI Engineer, Forward Deployed Engineer and Full Stack AI Engineer
+- 🏆 **Practice arena** with coding problems, quizzes and shareable Bronze/Silver/Gold badges
+- 💬 **Community Q&A** where learners ask, answer and vote
 
 ## 👋 About Me
 
