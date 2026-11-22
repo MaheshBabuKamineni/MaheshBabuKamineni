@@ -19,6 +19,18 @@
 
 ---
 
+## 🧠 Creator of NeuronHub
+
+<div align="center">
+
+<a href="https://neurohub-4d3a2f5f.web.app/"><img src="https://img.shields.io/badge/🧠%20NeuronHub-Learn%20%7C%20Grow%20%7C%20Build-8e44ad?style=for-the-badge&labelColor=0f2027"/></a>
+
+**I created and manage [NeuronHub](https://neurohub-4d3a2f5f.web.app/), a website that helps learners grow their skills and reach their goals.**
+
+<a href="https://neurohub-4d3a2f5f.web.app/"><img src="https://img.shields.io/badge/Visit%20NeuronHub-%E2%86%92-2ea44f?style=for-the-badge"/></a>
+
+</div>
+
 ## 👋 About Me
 
 I'm a **software engineer with a computer science background** and hands-on experience across **AI, machine learning and full-stack development**. I like turning ideas into useful software, and I'm curious about how language models can make applications more capable.
