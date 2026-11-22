@@ -25,11 +25,34 @@ I'm a **software engineer with a computer science background** and hands-on expe
 
 ```python
 class Mahesh:
-    role      = "Software Engineer"
+    roles     = ["Programmer Analyst", "Data Analyst", "IT Project Manager"]
+    industries = ["Software", "Services", "Consulting", "Pharmaceutical"]
     focus     = ["GenAI apps", "LangGraph workflows", "Backend services"]
     currently = "Making AI systems safe, observable and reliable"
-    fun_fact  = "I turn experiments into working projects"
+    next_up   = "More roles. More industries. More problems to solve."
 ```
+
+## 🧭 My Journey
+
+I've worn many hats, and each one taught me something different about how technology creates value.
+
+<div align="center">
+
+| Role | What it gave me |
+|:---:|:---|
+| 💻 **Programmer Analyst** | Building and maintaining reliable software |
+| 📊 **Data Analyst** | Turning raw data into decisions |
+| 📋 **IT Project Manager** | Leading teams, delivery and stakeholders |
+
+<img src="https://img.shields.io/badge/Software%20Industry-2c5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Service--Based-8e44ad?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Consulting-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pharmaceutical-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Next%20industry%3F-ff6b6b?style=for-the-badge"/>
+
+</div>
+
+Working across **software, services, consulting and pharmaceutical** settings means I can connect technical depth with business context. I'm eager to bring that to **many more industries** and keep learning.
 
 ## 🔭 What I'm Exploring Now
 
