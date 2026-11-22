@@ -78,6 +78,16 @@ I've worn many hats, and each one taught me something different about how techno
 
 Working across **software, services, consulting and pharmaceutical** settings means I can connect technical depth with business context. I'm eager to bring that to **many more industries** and keep learning.
 
+## 🏅 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20Code-Certified-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-Certified%20Application%20Developer%20(CKAD)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+</div>
+
 ## 🔭 What I'm Exploring Now
 
 | | |
